@@ -17,7 +17,7 @@ Trained on thousands of arXiv publications using a custom BPE tokenizer and BERT
 
 ## Model Test Results: Citation Prediction
 <figure style="text-align:center;">
-  <img src="assets/best_model.png" alt="Predicted vs. actual citation performance for 488 test papers" style="width:70%; max-width:700px;">
+  <img src="assets/best_model.png" alt="Predicted vs. actual citation performance for 488 test papers" style="width:70%; max-width:100px;">
   <figcaption style="font-size:0.9rem; color:#666;">
     The model was tested on 488 thermoelectric papers. RMSE is computed on log(1 + citations / years since publication), normalizing for publication age. The diagonal line represents ideal prediction parity.
   </figcaption>
