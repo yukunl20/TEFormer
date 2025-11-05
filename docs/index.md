@@ -16,7 +16,7 @@ Trained on thousands of arXiv publications using a custom BPE tokenizer and BERT
 ---
 
 ## Model Test Results: Citation Prediction
-![TEFormer citation prediction results (test set) — scatter of predicted vs. actual citations](assets/best_model.png)
+<img src="assets/best_model.png" alt="TEFormer citation prediction results (test set) — scatter of predicted vs. actual citations" width="600">
 
 ---
 
