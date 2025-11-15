@@ -1,6 +1,6 @@
 # TEFormer – Recommended Thermoelectric Papers
 
-_Last updated: 2025-11-15 09:51:57 UTC_
+_Last updated: 2025-11-15 10:10:54 UTC_
 
 ## Enhanced Thermoelectricity in Nanowires with inhomogeneous Helical states
 
