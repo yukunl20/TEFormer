@@ -34,7 +34,7 @@ These are automatically generated from the TEFormer arXiv ingestion pipeline.
 ## This Month's Thermoelectric Papers
 
 Below is a list of all papers **published this month**, sorted by predicted citation impact.  
-High-impact papers are marked with a ⭐.
+Papers we predict to be high-impact are highlighted with a ⭐.
 
 | # | Title | DOI | Pred. impact index | Published |
 |---|-------|-----|----------------------|-----------|

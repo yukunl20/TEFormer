@@ -1,12 +1,11 @@
 # TEFormer – Recommended Thermoelectric Papers
 
-_Last updated: 2025-11-15 09:50:09 UTC_
+_Last updated: 2025-11-15 09:51:57 UTC_
 
 ## Enhanced Thermoelectricity in Nanowires with inhomogeneous Helical states
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.09903](https://doi.org/10.48550/arXiv.2511.09903)
-- **Authors:** Zahra Aslani, Fabio Taddei, Fabrizio Dolcini, Alessandro Braggio
-- **Published:** 2025-11-13
+- **Published / Updated:** 2025-11-13
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -20,8 +19,7 @@ Semiconductor nanowires (NWs) with strong Rashba spin-orbit coupling (RSOC), whe
 ## Molecular Dynamics Simulation of Hydrodynamic Transport Coefficients in Plasmas
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.09787](https://doi.org/10.48550/arXiv.2511.09787)
-- **Authors:** Briggs Damman, Jarett LeVan, Scott Baalrud
-- **Published:** 2025-11-12
+- **Published / Updated:** 2025-11-12
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -35,8 +33,7 @@ Molecular dynamics (MD) simulations are used to calculate transport coefficients
 ## Plasma hydrodynamics from mean force kinetic theory
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.09786](https://doi.org/10.48550/arXiv.2511.09786)
-- **Authors:** Jarett LeVan, Scott D. Baalrud
-- **Published:** 2025-11-12
+- **Published / Updated:** 2025-11-12
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -50,8 +47,7 @@ Mean force kinetic theory is used to evaluate the electrical conductivity, therm
 ## A Brief Perspective on Piezotronic and Thermoelectric Coupling: Flexible Platforms for Synergistic Energy Scavenging and Peltier-Caloric Effects
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.09757](https://doi.org/10.48550/arXiv.2511.09757)
-- **Authors:** David Carroll, ChaoChao Dun
-- **Published:** 2025-11-12
+- **Published / Updated:** 2025-11-12
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -65,8 +61,7 @@ Advances in the development of flexible piezoelectric and thermoelectric materia
 ## Topological end state and enhanced thermoelectric performance of a supramolecular device
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.08943](https://doi.org/10.48550/arXiv.2511.08943)
-- **Authors:** Wenlai Mu, Nisar Muhammad, Huaihong Guo, Zsolt Gulacsi, Teng Yang, Zhidong Zhang
-- **Published:** 2025-11-12
+- **Published / Updated:** 2025-11-12
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -80,8 +75,7 @@ Supramolecular device (SMD) with topological end states and a noncovalent juncti
 ## Designing new Zintl phases SrBaX (X = Si, Ge, Sn) for thermoelectric applications using *ab initio* techniques
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.07031](https://doi.org/10.48550/arXiv.2511.07031)
-- **Authors:** Vivek Gusain, Mohd Zeeshan, B. K. Mani
-- **Published:** 2025-11-10
+- **Published / Updated:** 2025-11-10
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -95,8 +89,7 @@ Slack's phonon-glass and electron-crystal concept has been the guiding paradigm 
 ## Plasmon resonance in a sub-THz graphene-based detector: theory and experiment
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.06891](https://doi.org/10.48550/arXiv.2511.06891)
-- **Authors:** I. M. Moiseenko, E. Titova, M. Kashchenko, D. Svintsov
-- **Published:** 2025-11-10
+- **Published / Updated:** 2025-11-10
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -110,8 +103,7 @@ We present a combined experimental and theoretical study of photovoltage generat
 ## Phonon-Dominated Thermal Transport and Large Violation of the Wiedemann-Franz Law in Topological Semimetal CoSi
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.06290](https://doi.org/10.48550/arXiv.2511.06290)
-- **Authors:** Luyao Zhong, Xin Jin, Mingquan He, Rui Wang, Xiaoyuan Zhou, Tianqi Deng, Xiaolong Yang
-- **Published:** 2025-11-12
+- **Published / Updated:** 2025-11-12
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -125,8 +117,7 @@ The Wiedemann-Franz (WF) law, relating the electronic thermal conductivity (κ_ 
 ## Properties of multiterminal superconducting nanostructure with double quantum dot
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.05988](https://doi.org/10.48550/arXiv.2511.05988)
-- **Authors:** G. Górski, K. Kucab, T. Domański
-- **Published:** 2025-11-08
+- **Published / Updated:** 2025-11-08
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -140,8 +131,7 @@ We study the charge transport and thermoelectric properties of the junction, com
 ## High Thermoelectric Cooling Performance of Junction Thermoelectric Transistors
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.05317](https://doi.org/10.48550/arXiv.2511.05317)
-- **Authors:** Chen Tang, Bohang Nan, Xiaodong Liu, Guiying Xu
-- **Published:** 2025-11-07
+- **Published / Updated:** 2025-11-07
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -155,8 +145,7 @@ To achieve high performance thermoelectric materials and devices, thermoelectric
 ## Studying the thermoelectric properties of an anisotropic QGP medium
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.03054](https://doi.org/10.48550/arXiv.2511.03054)
-- **Authors:** Shubhalaxmi Rath, Nicolás A. Neill
-- **Published:** 2025-11-04
+- **Published / Updated:** 2025-11-04
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -170,8 +159,7 @@ We have studied how the thermoelectric properties of the quark-gluon plasma (QGP
 ## Noises in a two-channel charge Kondo model
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.02590](https://doi.org/10.48550/arXiv.2511.02590)
-- **Authors:** T. K. T. Nguyen, J. Rech, T. Martin, M. N. Kiselev
-- **Published:** 2025-11-04
+- **Published / Updated:** 2025-11-04
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -185,8 +173,7 @@ We investigate fluctuations of electric and heat currents, along with their cros
 ## Outstanding figure of merit at high temperature for DFT-based predicted double perovskite oxides, Ba2GaXO6 (X = V, Nb, Ta)
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.01134](https://doi.org/10.48550/arXiv.2511.01134)
-- **Authors:** S. S. Saif, M. M. Hossain, M. A. Ali
-- **Published:** 2025-11-03
+- **Published / Updated:** 2025-11-03
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -200,8 +187,7 @@ Thermoelectric materials with a high figure of merit (ZT) are highly demanded fo
 ## Applicability of Electrical Conductivity Ratio Method to Complicated Band Structure and the Carrier Scattering Mechanisms of SnSe
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2511.00522](https://doi.org/10.48550/arXiv.2511.00522)
-- **Authors:** Pan Ren, Junling Gao, Guiying Xu, Bohang Nan, Tao Guo, Quanxin Yang, Fanchen Meng, Myles McKenna, Jian He, Sitong Niu
-- **Published:** 2025-11-01
+- **Published / Updated:** 2025-11-01
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -215,8 +201,7 @@ The electrical conductivity ratio (ECR) method can be used to analyze carrier sc
 ## Molecular ink-based synthesis of Bi(SzSe1-z)(IxBr1-x) solid solutions as tuneable materials for sustainable energy applications
 
 - **DOI:** [https://doi.org/10.1002/smtd.202501723](https://doi.org/10.1002/smtd.202501723)
-- **Authors:** David Rovira, Ivan Caño, Cibran Lopez, Alejandro Navarro-Güell, José Miguel Asensi, Lorenzo Calvo-Barrio, Laura Garcia-Carreras, Xavier Alcobe, Luis Cerqueira, Victoria Corregidor, Yudania Sanchez, Sonia Lanzalaco, Alex Jimenez-Arquijo, Outman El Khouja, Jonathan W. Turnley, Rakesh Agrawal, Claudio Cazorla, Joaquim Puigdollers, Edgardo Saucedo
-- **Published:** 2025-10-31
+- **Published / Updated:** 2025-10-31
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -230,8 +215,7 @@ Quasi-one-dimensional (Q-1D) van der Waals chalcohalides have emerged as promisi
 ## Thermoelectricity of moiré heavy fermions in MoTe2/WSe2 bilayers
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.26958](https://doi.org/10.48550/arXiv.2510.26958)
-- **Authors:** Yichi Zhang, Wenjin Zhao, Zhongdong Han, Kenji Watanabe, Takashi Taniguchi, Jie Shan, Kin Fai Mak
-- **Published:** 2025-10-30
+- **Published / Updated:** 2025-10-30
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -245,8 +229,7 @@ Tunable Kondo lattice and heavy fermion physics have been recently reported in m
 ## Tunable Colloidal Synthesis Enabling μ-ARPES on Individual Two-dimensional Bismuth Nanocrystals
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.26558](https://doi.org/10.48550/arXiv.2510.26558)
-- **Authors:** Fagui He, Yan Yan Grisan Qiu, Simone Mearini, Vitaliy Feyer, Kevin Oldenburg, Rostyslav Lesyuk, Christian Klinke
-- **Published:** 2025-10-30
+- **Published / Updated:** 2025-10-30
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -260,8 +243,7 @@ Two-dimensional bismuth (Bi) is a promising platform for quantum and energy tech
 ## Phase-Rotated Altermagnets as Chern Valves for Topological Transport
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.24294](https://doi.org/10.48550/arXiv.2510.24294)
-- **Authors:** Carlos Caro, Francisco Gamez
-- **Published:** 2025-10-28
+- **Published / Updated:** 2025-10-28
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -275,8 +257,7 @@ Motivated by the emerging control of Berry-curvature textures in altermagnets, w
 ## Interplay between Cu diffusion and bonding anisotropy on the thermoelectric performance of double cation chalcohalides CuBiSeX_2 (X = Cl, Br)
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.24147](https://doi.org/10.48550/arXiv.2510.24147)
-- **Authors:** Manivannan Saminathan, Prakash Govindaraj, Hern Kim, Kowsalya Murugan, Kathirvel Venugopal
-- **Published:** 2025-10-28
+- **Published / Updated:** 2025-10-28
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -290,8 +271,7 @@ Double cation chalcohalide have recently been emerged as the interesting candida
 ## Strong Intra- and Interchain Orbital Coupling Leads to Multiband and High Thermoelectric Performance in Na_2AuX (X = P, As, Sb, and Bi)
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.23983](https://doi.org/10.48550/arXiv.2510.23983)
-- **Authors:** Zhonghao Xia, Zhilong Yang, Yali Yang, Kaile Ren, Jiangang He
-- **Published:** 2025-10-28
+- **Published / Updated:** 2025-10-28
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -305,8 +285,7 @@ The intrinsic coupling among electrical conductivity (σ), Seebeck coefficient (
 ## High-Efficiency Thermoelectric Transport in Aharonov-Bohm-Casher Rings
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.23579](https://doi.org/10.48550/arXiv.2510.23579)
-- **Authors:** Diego García, Sergio Arias, Rosa López
-- **Published:** 2025-10-27
+- **Published / Updated:** 2025-10-27
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -320,8 +299,7 @@ Quantum heat engines are nanoscale devices that convert heat into work by exploi
 ## Thermoelectric transport and the role of different scattering processes in the half-Heusler NbFeSb
 
 - **DOI:** [https://doi.org/10.1039/D5MH00228A](https://doi.org/10.1039/D5MH00228A)
-- **Authors:** Bhawna Sahni, Yao Zhao, Zhen Li, Rajeev Dutt, Patrizio Graziosi, Neophytos Neophytou
-- **Published:** 2025-10-27
+- **Published / Updated:** 2025-10-27
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -335,8 +313,7 @@ We perform an ab initio computational investigation of the electronic and thermo
 ## Thermal Transport in Ag8TS6 (T= Si, Ge, Sn) Argyrodites: An Integrated Experimental, Quantum-Chemical, and Computational Modelling Study
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.23133](https://doi.org/10.48550/arXiv.2510.23133)
-- **Authors:** Joana Bustamante, Anupama Ghata, Aakash A. Naik, Christina Ertural, Katharina Ueltzen, Wolfgang G. Zeier, Janine George
-- **Published:** 2025-10-27
+- **Published / Updated:** 2025-10-27
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -350,8 +327,7 @@ Argyrodite-type Ag-based sulfides combine exceptionally low lattice thermal and 
 ## Thermoelectric properties of interacting double quantum dots
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.20397](https://doi.org/10.48550/arXiv.2510.20397)
-- **Authors:** Nahual Sobrino
-- **Published:** 2025-10-23
+- **Published / Updated:** 2025-10-23
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -365,8 +341,7 @@ We investigate the thermoelectric transport properties of an interacting paralle
 ## Highly Rectifying Cubic Copper Iron Sulfides p-n Junction Diode Fabricated by Anodic Oxidation
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.20326](https://doi.org/10.48550/arXiv.2510.20326)
-- **Authors:** Yoshimine Kato, Tomoaki Nakamura, Katsuya Komorita, Kungen Teii
-- **Published:** 2025-10-23
+- **Published / Updated:** 2025-10-23
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -380,8 +355,7 @@ Rectification properties of semiconductor p-n junction diodes are the basic and 
 ## Improved high-gradient performance for medium-velocity superconducting half-wave resonators: Surface preparation and trapped flux mitigation
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.19076](https://doi.org/10.48550/arXiv.2510.19076)
-- **Authors:** Yuting Wu, Kenji Saito, Alex Taylor, Andrei Ganshyn, Chris Compton, Ethan Metzgar, Kyle Elliott, Laura Popielarski, Sam Miller, Sang-hoon Kim, Spencer Combs, Taro Konomi, Ting Xu, Walter Hartung, Wei Chang, Yoo-Lim Cheon
-- **Published:** 2025-10-21
+- **Published / Updated:** 2025-10-21
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -395,8 +369,7 @@ A development effort to improve the performance of superconducting radio-frequen
 ## Interplay of Magnetism, Band Gap Tuning, Optical, and Thermoelectric Responses in Fe-Doped YMnO_3: Insights from First-Principles Calculations
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.18754](https://doi.org/10.48550/arXiv.2510.18754)
-- **Authors:** Kazi Mazba Kamal, Alamgir Kabir
-- **Published:** 2025-10-21
+- **Published / Updated:** 2025-10-21
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -410,8 +383,7 @@ The hexagonal multiferroic oxide YMnO_3 has demonstrated applications in various
 ## First-Principles Investigation of Sr2PrSbO6 Double Perovskite: An Emerging Aspirant for Electrocatalysis, Plasmonic, Photonics, Thermoelectric and Solar Cell Applications
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.18609](https://doi.org/10.48550/arXiv.2510.18609)
-- **Authors:** Md. Mohiuddin, Alamgir Kabir
-- **Published:** 2025-10-21
+- **Published / Updated:** 2025-10-21
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -425,8 +397,7 @@ In this study, we investigate the structural properties, chemical stability, and
 ## Fibonacci-Engineered Spin and Charge Thermoelectrics in a Long Range Su-Schrieffer-Heeger Chain: A Pathway to Giant Figure of Merit
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.18532](https://doi.org/10.48550/arXiv.2510.18532)
-- **Authors:** Ranjini Bhattacharya, Souvik Roy
-- **Published:** 2025-10-21
+- **Published / Updated:** 2025-10-21
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -440,8 +411,7 @@ In this work, we present a novel investigation into the spin-dependent thermoele
 ## Robust Material Properties in Epitaxial In_2Te_3 Thin Films Across Varying Thicknesses
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.18449](https://doi.org/10.48550/arXiv.2510.18449)
-- **Authors:** Maximilian Buchta, Felix Hoff, Lucas Bothe, Niklas Penner, Christoph Ringkamp, Thomas Schmidt, Timo Veslin, Ka Lei Mak, Jonathan Frank, Dasol Kim, Matthias Wuttig
-- **Published:** 2025-10-21
+- **Published / Updated:** 2025-10-21
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -455,8 +425,7 @@ Sesqui-chalcogenides serve as a critical bridge between traditional semiconducto
 ## First-Principles Investigation of the Physical and Thermoelectric Properties of Chalcogenide Compounds for Waste-Heat Recovery
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.18078](https://doi.org/10.48550/arXiv.2510.18078)
-- **Authors:** Md Hasan Shahriar Rifat, Tanvir Khan, K. M. Mehedi Hassan
-- **Published:** 2025-10-20
+- **Published / Updated:** 2025-10-20
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -470,8 +439,7 @@ Improving energy efficiency by recovering waste heat and providing thermal prote
 ## Thermal Conductivity Estimation of Thermoelectric Materials with Uncertainty Quantification Using Bayesian Physics-Informed Neural Networks
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.16723](https://doi.org/10.48550/arXiv.2510.16723)
-- **Authors:** Hyeonbin Moon, Hanbin Cho, Wabi Demeke, Byungki Ryu, Seunghwa Ryu
-- **Published:** 2025-10-19
+- **Published / Updated:** 2025-10-19
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -485,8 +453,7 @@ Characterizing the temperature-dependent thermal conductivity is challenging bec
 ## Synergistic modulation of band structure and phonon transport for higher thermoelectric performance of WSe2
 
 - **DOI:** [https://doi.org/10.1016/j.cej.2025.164510](https://doi.org/10.1016/j.cej.2025.164510)
-- **Authors:** Mazhar Hussain Danish, Amil Aligayev, Zahir Muhammad, Tao Chen, Adil Mansoor, Zia Ur Rahman, F. J. Dominguez-Gutierrez, Di Li, Jian Zhang, Zhuang Hao Zheng, Xiaoying Qin
-- **Published:** 2025-10-17
+- **Published / Updated:** 2025-10-17
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -500,8 +467,7 @@ Tungsten diselenide (WSe2) emerges as a promising thermoelectric (TE) candidate 
 ## Design optimization of silicon nitride nanomechanical resonators for thermal infrared detectors: a guide through key figures of merit
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.14758](https://doi.org/10.48550/arXiv.2510.14758)
-- **Authors:** Paolo Martini, Kostas Kanellopulos, Silvan Schmid
-- **Published:** 2025-10-16
+- **Published / Updated:** 2025-10-16
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -515,8 +481,7 @@ Thermomechanical infrared (IR) detectors have emerged as promising alternatives 
 ## Unique Hierarchical Rotational Dynamics Induces Ultralow Lattice Thermal Conductivity in Cyanide-bridged Framework Materials
 
 - **DOI:** [https://doi.org/10.48550/arXiv.2510.14692](https://doi.org/10.48550/arXiv.2510.14692)
-- **Authors:** Zhunyun Tang, Xiaoxia Wang, Jin Li, Chaoyu He, Mingxing Chen, Chao Tang, Tao Ouyang
-- **Published:** 2025-10-16
+- **Published / Updated:** 2025-10-16
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -530,8 +495,7 @@ The pursuit of materials combining light constituent elements with ultralow latt
 ## Impurity-induced spin density wave in the thermoelectric layered cobaltite [Ca_2CoO_3]_0.62[CoO_2]
 
 - **DOI:** [https://doi.org/10.1103/q6tk-52dc](https://doi.org/10.1103/q6tk-52dc)
-- **Authors:** Motoya Takenaka, Shogo Yoshida, Yoshiki J. Sato, Ryuji Okazaki
-- **Published:** 2025-10-16
+- **Published / Updated:** 2025-10-16
 
 <details>
 <summary><strong>Abstract</strong></summary>
