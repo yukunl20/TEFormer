@@ -34,10 +34,10 @@ These are automatically generated from the TEFormer arXiv ingestion pipeline.
 ## This Month's Thermoelectric Papers
 
 Below is a list of all papers **published this month**, sorted by predicted citation impact.  
-Papers we predict to be high-impact are highlighted with a ⭐.
+High-impact papers are marked with a ⭐.
 
 | # | Title | DOI | Pred. impact index | Published |
-|---|-------|-----|----------------------------|-----------|
+|---|-------|-----|----------------------|-----------|
 | 1 | **⭐ Outstanding figure of merit at high temperature for DFT-based predicted double perovskite oxides, Ba2GaXO6 (X = V, Nb, Ta)** | [10.48550/arXiv.2511.01134](https://doi.org/10.48550/arXiv.2511.01134) | 1.84 | 2025-11-03 |
 | 2 | **⭐ Enhanced Thermoelectricity in Nanowires with inhomogeneous Helical states** | [10.48550/arXiv.2511.09903](https://doi.org/10.48550/arXiv.2511.09903) | 1.83 | 2025-11-13 |
 | 3 | **⭐ Applicability of Electrical Conductivity Ratio Method to Complicated Band Structure and the Carrier Scattering Mechanisms of SnSe** | [10.48550/arXiv.2511.00522](https://doi.org/10.48550/arXiv.2511.00522) | 1.58 | 2025-11-01 |
@@ -46,7 +46,7 @@ Papers we predict to be high-impact are highlighted with a ⭐.
 | 6 | High Thermoelectric Cooling Performance of Junction Thermoelectric Transistors | [10.48550/arXiv.2511.05317](https://doi.org/10.48550/arXiv.2511.05317) | 1.25 | 2025-11-07 |
 | 7 | Plasma hydrodynamics from mean force kinetic theory | [10.48550/arXiv.2511.09786](https://doi.org/10.48550/arXiv.2511.09786) | 1.22 | 2025-11-12 |
 | 8 | Molecular Dynamics Simulation of Hydrodynamic Transport Coefficients in Plasmas | [10.48550/arXiv.2511.09787](https://doi.org/10.48550/arXiv.2511.09787) | 1.17 | 2025-11-12 |
-| 9 | Designing new Zintl phases SrBaX (X = Si, Ge, Sn) for thermoelectric applications using \textit{ab initio} techniques | [10.48550/arXiv.2511.07031](https://doi.org/10.48550/arXiv.2511.07031) | 1.16 | 2025-11-10 |
+| 9 | Designing new Zintl phases SrBaX (X = Si, Ge, Sn) for thermoelectric applications using *ab initio* techniques | [10.48550/arXiv.2511.07031](https://doi.org/10.48550/arXiv.2511.07031) | 1.16 | 2025-11-10 |
 | 10 | Topological end state and enhanced thermoelectric performance of a supramolecular device | [10.48550/arXiv.2511.08943](https://doi.org/10.48550/arXiv.2511.08943) | 1.14 | 2025-11-12 |
 | 11 | Plasmon resonance in a sub-THz graphene-based detector: theory and experiment | [10.48550/arXiv.2511.06891](https://doi.org/10.48550/arXiv.2511.06891) | 1.08 | 2025-11-10 |
 | 12 | Studying the thermoelectric properties of an anisotropic QGP medium | [10.48550/arXiv.2511.03054](https://doi.org/10.48550/arXiv.2511.03054) | 1.07 | 2025-11-04 |
