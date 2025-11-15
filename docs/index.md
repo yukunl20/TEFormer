@@ -36,7 +36,7 @@ These are automatically generated from the TEFormer arXiv ingestion pipeline.
 Below is a list of all papers **published this month**, sorted by predicted citation impact.  
 Papers we predict to be high-impact are highlighted with a ⭐.
 
-| # | Title | DOI | Pred. citations | Published |
+| # | Title | DOI | Pred. normalized citations | Published |
 |---|-------|-----|-----------------|-----------|
 | 1 | **⭐ Outstanding figure of merit at high temperature for DFT-based predicted double perovskite oxides, Ba2GaXO6 (X = V, Nb, Ta)** | [10.48550/arXiv.2511.01134](https://doi.org/10.48550/arXiv.2511.01134) | 1.84 | 2025-11-03 |
 | 2 | **⭐ Enhanced Thermoelectricity in Nanowires with inhomogeneous Helical states** | [10.48550/arXiv.2511.09903](https://doi.org/10.48550/arXiv.2511.09903) | 1.83 | 2025-11-13 |
