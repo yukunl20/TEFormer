@@ -3,7 +3,7 @@
 Welcome to the **TEFormer** project!
 
 TEFormer is a domain-specific transformer model designed for the thermoelectric materials research community.  
-It automatically ingests new papers from arXiv, predicts their potential citation impact, and recommends emerging studies. 
+It automatically ingests new papers from arXiv, predicts their potential citation impact, and recommends emerging studies.  
 Trained on thousands of arXiv publications using a custom BPE tokenizer and BERT encoder, it estimates log-normalized citation rates and classifies papers as “read” or “skip.” Deployed as an automated arXiv Evaluation API, it enables daily, data-driven literature triage. TEFormer improves RMSE over baseline models and quantifies researcher time savings. Future work includes expanding to other domains, integrating Large Language Models (LLMs) for enhanced reasoning, and building knowledge graphs to reveal emerging scientific connections.
 
 ---
@@ -25,7 +25,20 @@ Trained on thousands of arXiv publications using a custom BPE tokenizer and BERT
 
 ---
 
-## Contact
-Developed by [Yukun Liu](https://github.com/yukunl20)  
-Feel free to open issues or contribute via pull requests!
+## Latest Recommended Papers
+Below are the **newest papers** predicted by TEFormer as high-impact thermoelectric studies.
 
+These are automatically generated from the TEFormer arXiv ingestion pipeline.  
+For the complete list of recommended papers, see:
+
+👉 **[Full Recommended Papers List](papers.md)**
+
+<!-- AUTO_UPDATE_BEGIN -->
+*This section will be automatically refreshed by your Colab pipeline.*  
+<!-- AUTO_UPDATE_END -->
+
+---
+
+## Contact
+Developed by [Yukun Liu](https://github.com/yukunl20).  
+Feel free to open issues or contribute via pull requests!
