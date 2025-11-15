@@ -25,10 +25,6 @@ Trained on thousands of arXiv publications using a custom BPE tokenizer and BERT
 
 ---
 
-## Latest Recommended Papers
-Below are the **newest papers** predicted by TEFormer as high-impact thermoelectric studies.
-
-These are automatically generated from the TEFormer arXiv ingestion pipeline.  
 <!-- MONTHLY_TABLE_BEGIN -->
 
 ## This Month's Thermoelectric Papers
