@@ -34,7 +34,7 @@ For the complete list of recommended papers, see:
 👉 **[Full Recommended Papers List](papers.md)**
 
 <!-- AUTO_UPDATE_BEGIN -->
-*This section will be automatically refreshed by your Colab pipeline.*  
+
 <!-- AUTO_UPDATE_END -->
 
 ---
